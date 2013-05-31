@@ -6,4 +6,19 @@
 <file name="index.php" server="W:/teens.dbrl.org/www/" local="130113727900000000" remote="130113727900000000" Dst="2" />
 <file name="page.php" server="W:/teens.dbrl.org/www/" local="130113726740000000" remote="130113726740000000" Dst="2" />
 <file name="functions.php" server="W:/teens.dbrl.org/www/" local="130047320230000000" remote="130047320230000000" Dst="2" />
+<file name="style.scss" server="W:/teens.dbrl.org/www/" local="130145099722500481" remote="130145099720000000" Dst="2" />
+<file name="_structure.scss" server="W:/teens.dbrl.org/www/" local="130144938576861586" remote="130144938570000000" Dst="2" />
+<file name="_globals.scss" server="W:/teens.dbrl.org/www/" local="130144939642830085" remote="130144939640000000" Dst="2" />
+<file name="_asides.scss" server="W:/teens.dbrl.org/www/" local="130145096904306286" remote="130145096900000000" Dst="2" />
+<file name="_attachment.scss" server="W:/teens.dbrl.org/www/" local="130145097559674889" remote="130145097550000000" Dst="2" />
+<file name="_comments.scss" server="W:/teens.dbrl.org/www/" local="130145098351390114" remote="130145098350000000" Dst="2" />
+<file name="_content.scss" server="W:/teens.dbrl.org/www/" local="130145096000892913" remote="130145096000000000" Dst="2" />
+<file name="_footer.scss" server="W:/teens.dbrl.org/www/" local="130145098926261169" remote="130145098920000000" Dst="2" />
+<file name="_gallery.scss" server="W:/teens.dbrl.org/www/" local="130145097247824892" remote="130145097240000000" Dst="2" />
+<file name="_header.scss" server="W:/teens.dbrl.org/www/" local="130145095344432289" remote="130145095340000000" Dst="2" />
+<file name="_images.scss" server="W:/teens.dbrl.org/www/" local="130145097806159629" remote="130145097800000000" Dst="2" />
+<file name="_menu.scss" server="W:/teens.dbrl.org/www/" local="130145095710883336" remote="130145095710000000" Dst="2" />
+<file name="_navigation.scss" server="W:/teens.dbrl.org/www/" local="130145098112705524" remote="130145098110000000" Dst="2" />
+<file name="_print.scss" server="W:/teens.dbrl.org/www/" local="130145099540756986" remote="130145099540000000" Dst="2" />
+<file name="_widgets.scss" server="W:/teens.dbrl.org/www/" local="130145101454289784" remote="130145101450000000" Dst="2" />
 </dwsync>

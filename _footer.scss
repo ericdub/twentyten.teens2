@@ -1,0 +1,39 @@
+#footer {
+	margin-bottom: 20px;
+}
+#colophon {
+	border-top: 4px solid #3E82C1;
+	margin-top: -4px;
+	overflow: hidden;
+	padding: 18px 0;
+}
+#site-info {
+    color:#9FC649;
+	font-weight: normal;
+    margin-left:15px;
+}
+#site-info a {
+	color: #FFF;
+	text-decoration: none;
+}
+#site-generator {
+    display: none;
+	position: relative;
+}
+#site-generator a {
+	background: url(images/wordpress.png) center left no-repeat;
+	color: #EEE;
+	display: inline-block;
+	line-height: 16px;
+	padding-left: 20px;
+	text-decoration: none;
+}
+#site-info a:hover,
+#site-generator a:hover {
+	text-decoration: underline;
+}
+img#wpstats {
+	display: block;
+	margin: 0 auto 10px;
+}
+

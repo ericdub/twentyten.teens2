@@ -1,0 +1,125 @@
+/*
+Theme Name: Twenty Ten (Teens 2012)
+Theme URI: http://wordpress.org/
+Description: 
+Author: the WordPress team
+Version: 1.1
+*/
+
+
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+
+@import "reset";
+
+/* =Layout
+-------------------------------------------------------------- */
+
+@import "layout";
+
+
+/* =Fonts
+-------------------------------------------------------------- */
+
+@import "fonts";
+
+
+/* =Structure
+-------------------------------------------------------------- */
+
+@import "structure";
+
+
+/* =Global Elements
+-------------------------------------------------------------- */
+
+@import "globals";
+
+
+/* =Header
+-------------------------------------------------------------- */
+
+@import "header";
+
+
+/* =Menu
+-------------------------------------------------------------- */
+
+@import "menu";
+
+
+/* =Content
+-------------------------------------------------------------- */
+
+@import "content";
+
+
+
+/* =Asides
+-------------------------------------------------------------- */
+
+@import "asides";
+
+/* =Gallery listing
+-------------------------------------------------------------- */
+
+@import "gallery";
+
+/* =Attachment pages
+-------------------------------------------------------------- */
+
+@import "attachment";
+
+/* =Images
+-------------------------------------------------------------- */
+
+@import "images";
+
+
+/* =Navigation
+-------------------------------------------------------------- */
+
+@import "navigation";
+
+
+/* =Comments
+-------------------------------------------------------------- */
+
+@import "comments";
+
+/* =Widget Areas
+-------------------------------------------------------------- */
+
+@import "widgets";
+
+/* =Footer
+-------------------------------------------------------------- */
+
+@import "footer";
+
+
+/* =Mobile Safari ( iPad, iPhone and iPod Touch )
+-------------------------------------------------------------- */
+
+pre {
+	-webkit-text-size-adjust: 140%;
+}
+code {
+	-webkit-text-size-adjust: 160%;
+}
+#access,
+.entry-meta,
+.entry-utility,
+.navigation,
+.widget-area {
+	-webkit-text-size-adjust: 120%;
+}
+#site-description {
+	-webkit-text-size-adjust: none;
+}
+
+
+/* =Print Style
+-------------------------------------------------------------- */
+
+@import "print";
