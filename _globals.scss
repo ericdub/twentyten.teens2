@@ -1,6 +1,6 @@
 /* Main global 'theme' and typographic styles */
 body {
-	background: #142B4C; /*#193A5F;*/
+	background: $backGroundColor; /*#193A5F;*/
     background: -moz-linear-gradient(top,  hsl(215,58%,19%) 41%, hsl(214,58%,22%) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(41%,hsl(215,58%,19%)), color-stop(100%,hsl(214,58%,22%))); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient(top,  hsl(215,58%,19%) 41%,hsl(214,58%,22%) 100%); /* Chrome10+,Safari5.1+ */
@@ -18,7 +18,7 @@ textarea {
 	line-height: 18px;
 }
 hr {
-	background-color: #e7e7e7;
+	background-color: $hrColor;
 	border: 0;
 	clear: both;
 	height: 1px;
@@ -120,15 +120,15 @@ textarea {
 	padding: 2px;
 }
 a:link {
-	color: #3E82C1;
+	color: $aColor;
     text-decoration: none;
 }
 a:visited {
-	color: #743399;
+	color: $aVisitedColor;
 }
 a:active,
 a:hover {
-	color: #ff4b33;
+	color: $aHoverColor;
 }
 
 /* Text meant only for screen readers */

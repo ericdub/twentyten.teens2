@@ -1,16 +1,16 @@
 .navigation {
-	color: #888;
+	color: $navColor;
 	line-height: 18px;
 	overflow: hidden;
 }
 .navigation a:link,
 .navigation a:visited {
-	color: #888;
+	color: $navColor;
 	text-decoration: none;
 }
 .navigation a:active,
 .navigation a:hover {
-	color: #ff4b33;
+	color: $navHover;
 }
 .nav-previous {
 	float: left;

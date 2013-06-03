@@ -102,32 +102,32 @@
 	margin: 0 0 36px 0;
 }
 .page-title span {
-	color: #7B9A39;
+	color: $pageTitleSpan;
 	font-size: 22px;
 	font-weight: normal;
 }
 .page-title a:link,
 .page-title a:visited {
-	color: #888;
+	color: $pageTitleLink;
 	text-decoration: none;
 }
 .page-title a:active,
 .page-title a:hover {
-	color: #ff4b33;
+	color: $pageLinkHover;
 }
 #content .entry-title {
-	color: #142B4C;
+	color: $entryTitleColor;
 	margin-bottom: 0;
     font: bold 44px/1.3em "Amatic SC", sans-serif;
 }
 .entry-title a:link,
 .entry-title a:visited {
-	color: #E2733B;
+	color: $entryTitleLink;
 	text-decoration: none;
 }
 .entry-title a:active,
 .entry-title a:hover {
-	color: #163D5F;
+	color: $entryTitleHover;
 }
 .entry-meta {
 	color: #333;
@@ -201,7 +201,7 @@
 .page-link a:link,
 .page-link a:visited {
 	background: #f1f1f1;
-	color: #333;
+	color: $pageLink;
 	font-weight: normal;
 	padding: 0.5em 0.75em;
 	text-decoration: none;
@@ -211,7 +211,7 @@
 }
 .page-link a:active,
 .page-link a:hover {
-	color: #ff4b33;
+	color: $pageLinkHover;
 }
 body.page .edit-link {
 	clear: both;
